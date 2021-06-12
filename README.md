@@ -1,10 +1,10 @@
 <h1>Hello There</h1> 
 
+![WhatsApp Image 2021-06-11 at 8 20 30 PM](https://user-images.githubusercontent.com/46231507/121783421-302f8e80-cb74-11eb-9d7f-bc32cbcc9a7a.jpeg)
+
 <div align="center">
 <img src="https://img.shields.io/badge/OS-Windows-informational.svg?logoColor=4285F4&style=flat-square&logo=Windows">   <img src="https://img.shields.io/badge/Editor-VS Code-informational.svg?logoColor=4285F4&style=flat-square&logo=Visual-Studio-Code">  <img src="https://img.shields.io/badge/Code-Angular-informational.svg?logoColor=4285F4&style=flat-square&logo=Angular"> <img src="https://img.shields.io/badge/Ux/Ui-Adobe XD-informational.svg?logoColor=4285F4&style=flat-square&logo=Adobe-XD">  <img src="https://img.shields.io/badge/Ux/Ui-Figma-informational.svg?logoColor=4285F4&style=flat-square&logo=Figma">  <img src="https://img.shields.io/badge/Tools-Postman-informational.svg?logoColor=4285F4&style=flat-square&logo=Postman">
 </div>
-<img
-![WhatsApp Image 2021-06-11 at 8 20 30 PM](https://user-images.githubusercontent.com/46231507/121783421-302f8e80-cb74-11eb-9d7f-bc32cbcc9a7a.jpeg)>
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
