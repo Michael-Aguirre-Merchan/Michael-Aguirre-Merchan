@@ -8,20 +8,18 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
-I'm a <strike>web designer</strike> front-end developer who has Ux/Ui skills.
+I'm a <strike>web designer</strike> front-end developer who has UX/UI skills.
 
-It's been 2 years since I started as an official-full time developer. I have been able to desing and code many different sites, learning a lot and trying my costumers dreams come true ✨✨
+It's been 2 years since I started as an official-full time developer. I have been able to desing and code many different sites, learning a lot and trying my costumers dreams come true. ✨✨
 
-I'm currently focused on learning and practicing angular 24/7
+I'm currently focused on learning and practicing angular 24/7.
 
 In case you need me:
 
-<h3>Social</h3>
-
-<a href="mailto:micamerchan@gmail.com"><img src="https://img.shields.io/badge/Email-blueviolet.svg?style=for-the-badge&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/michael-merchan/"><img src="https://img.shields.io/badge/LinkedIn-blueviolet.svg?style=for-the-badge&logo=LinkedIn"></a>
-<a href="https://drive.google.com/file/d/12IRbDfUsfIcoo6h7OXIiUUSci6g9y309/view?usp=sharing"><img src="https://img.shields.io/badge/CV-blueviolet.svg?style=for-the-badge&logo=Adobe-Acrobat-Reader"></a>
-<a href="https://michaelmerchan.com"><img src="https://img.shields.io/badge/CV-blueviolet.svg?logoColor=4285F4&style=for-the-badge&logo=Google-Chrome"></a>
+<a href="mailto:micamerchan@gmail.com"><img src="https://img.shields.io/badge/Email-informational.svg?logoColor=ffffff&style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/michael-merchan/"><img src="https://img.shields.io/badge/LinkedIn-informational.svg?style=for-the-badge&logo=LinkedIn"></a>
+<a href="https://drive.google.com/file/d/12IRbDfUsfIcoo6h7OXIiUUSci6g9y309/view?usp=sharing"><img src="https://img.shields.io/badge/CV-informational.svg?style=for-the-badge&logo=Adobe-Acrobat-Reader"></a>
+<a href="https://michaelmerchan.com"><img src="https://img.shields.io/badge/CV-informational.svg?logoColor=ffffff&style=for-the-badge&logo=Google-Chrome"></a>
 
 -------------------------------------------------------------------------------------------------------------------------------------
   
